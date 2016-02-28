@@ -1,0 +1,23 @@
+_repo: The-Boy-Scouts-on-a-Submarine_6339
+creator:
+  author:
+    agent_name: Blaine, John
+    alias: Blaine, Captain John
+    gutenberg_agent_id: '2007'
+    url: http://www.gutenberg.org/2009/agents/2007
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+title: The Boy Scouts on a Submarine
+url: http://www.gutenberg.org/ebooks/6339
