@@ -1,4 +1,8 @@
 _repo: The-Boy-Scouts-on-a-Submarine_6339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blaine, John
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '2007'
     url: http://www.gutenberg.org/2009/agents/2007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6339#The-Boy-Scouts-on-a-Submarine
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
